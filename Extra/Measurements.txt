@@ -1,2 +1,4 @@
-Risers = 22.5 CM
-Full Square Distance = 30.5 CM
+Risers = 22.5 CM : 225 MM
+Full Square Distance = 30.5 CM : 305 MM
+Half Squre Distance = 15.25 CM : 152.5 MM
+Push Amount = 23.5 CM : 235 MM
