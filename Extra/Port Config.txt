@@ -1,0 +1,4 @@
+Left Motor - Port 1
+Right Motor - Port 2
+Gyro - Port 3
+Stack Bumper Sensor - port 4
